@@ -118,13 +118,18 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 
 #container #homepage #intro{}
 #container #homepage #intro h2 {font-size:20px;}
-#container #homepage #intro p {margin: 0; padding: 0}
+#container #homepage #intro p {margin: 0; padding-top: 10px}
 #container #homepage #intro article{}
 #container #homepage #intro article figure{}
 #container #homepage #intro article figure img{float:right; margin:0 0 10px 0; padding:4px; border:1px solid #D6D6D6;}
 #container #homepage #intro article figure figcaption{float:left; width:460px;}
 #container #homepage #intro article figure h2{}
 #container #homepage #intro article figure footer{}
+
+#container #homepage #slides {}
+#container #homepage #slides hr {margin-top: 20px;}
+#container #homepage #slides h2 {font-size:20px;}
+#container #homepage #slides p {margin: 0; padding-top: 10px; margin-bottom: 10px;}
 
 /*----------------------------------------------Footer-------------------------------------*/
 
